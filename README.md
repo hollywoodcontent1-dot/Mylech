@@ -564,6 +564,8 @@ sudo docker compose logs --follow
 
 ------
 
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hollywoodcontent1-dot/Mylech/tree/master)
+
 </details>
 
 **IMPORTANT NOTES**:
